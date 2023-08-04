@@ -99,7 +99,7 @@ public class datos{
             JOptionPane.showMessageDialog(null,"cancion con mayor duracion: "+arrcanciones[i]);
             }
         }
-        JOptionPane.showMessageDialog(null,"cancio en la posicion 1: "+arrcanciones[0]);
+        JOptionPane.showMessageDialog(null,"autor de la cancio en la posicion 1: "+arrcanciones[0].getautorcancion());
         
     }
 }
